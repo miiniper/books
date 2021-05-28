@@ -1,9 +1,9 @@
 #### 编程书籍的整理和收集
 
 <p align=''>
-<img src="https://img.shields.io/badge/build-passing-brightgreen.svg">
-<a href="https://twitter.com/perfactsen"><img src="https://img.shields.io/badge/twitter-keke-green.svg?style=flat&colorA=009df2"></a>
-<a href="https://www.zhihu.com/people/sencoed.com/activities"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-keke-green.svg?style=flat&colorA=009df2"></a>
+ <img src="https://img.shields.io/badge/build-passing-brightgreen.svg">
+ <a href="https://twitter.com/perfactsen"><img src="https://img.shields.io/badge/twitter-keke-green.svg?style=flat&colorA=009df2"></a>
+ <a href="https://www.zhihu.com/people/sencoed.com/activities"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-keke-green.svg?style=flat&colorA=009df2"></a>
 </p>
 
 当你迷茫的时候，书可以带你找到问题的答案，开阔自己的眼界，提升自己的认知，不断的前行。
@@ -104,8 +104,8 @@
   * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
   * [Caffe2-Python API](https://caffe2.ai/doxygen-python/html/namespaces.html)
   * [Python-100天从新手到大师](https://github.com/jackfrued/Python-100-Days?1532685843314)
-  * [Python Cookbook第三版](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
-  * [Python编程:从入门到实践](https://github.com/KeKe-Li/book/blob/master/Python/Python%E7%BC%96%E7%A8%8B:%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
+  * [PythonCookbook第三版](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
+  * [Python编程从入门到实践](https://github.com/KeKe-Li/book/blob/master/Python/Python%E7%BC%96%E7%A8%8B:%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
 #### Rust
   * [Rust程序设计语言](https://kaisery.gitbooks.io/rust-book-chinese/content/)
   * [Rust语言学习笔记](https://photino.gitbooks.io/rust-notes/)
